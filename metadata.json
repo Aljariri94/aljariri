@@ -1,0 +1,6 @@
+{
+  "name": "آلة حاسبة",
+  "description": "حاسبة أندرويد احترافية تحافظ على بساطة ClevCalc بشاشة أكبر وأزرار أوسع واختصارات 00 و000 وسجل محلي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
